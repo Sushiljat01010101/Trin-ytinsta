@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiny Crap</string>
+    <string name="download_service_channel_name">Downloads Channel</string>
+    <string name="download_service_channel_desc">Shows download progress and status for Tiny Crap</string>
+</resources>

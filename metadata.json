@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Crap",
+  "description": "Personal-use social media video and audio downloader for Instagram, YouTube, and Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
